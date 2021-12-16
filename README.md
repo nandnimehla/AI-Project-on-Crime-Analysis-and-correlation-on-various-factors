@@ -1,5 +1,4 @@
 # AI-Project-on-Crime-Analysis-and-correlation-on-various-factors
-# AI-Project-on-Crime-Analysis-and-correlation-on-various-factors
 ![image](https://user-images.githubusercontent.com/70091050/146423667-2747ecb3-9828-48c6-8436-5b6d528c09ad.png)
 
 Predicting crimes before they happen is simple to understand, but it takes a lot more than understanding the concept to make it a reality.
